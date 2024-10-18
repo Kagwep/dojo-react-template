@@ -4,14 +4,14 @@ class_hash = "0xf6f44afb3cacbcc01a371aff62c86ca9a45feba065424c99f7cd8637514d8f"
 original_class_hash = "0xf6f44afb3cacbcc01a371aff62c86ca9a45feba065424c99f7cd8637514d8f"
 abi = "manifests/dev/abis/deployments/dojo_world_world.json"
 address = "0x43ddbff1c3e0e80e9ca57b47d6a17b078fc0b7257536d74a4a05a42a46fc946"
-transaction_hash = "0x7b12d428752851037e0018f3c9101a99f0501dea292bf272da1503aff46ba05"
+transaction_hash = "0x78bfdd13e631f5c9a34e633126401067193f6c33a6f31bb34c6353b88b0171f"
 block_number = 3
 seed = "bootcamp"
 name = "dojo::world::world"
 
 [world.metadata]
 profile_name = "dev"
-rpc_url = "https://api.cartridge.gg/x/color-grid/katana"
+rpc_url = "http://localhost:5050/"
 
 [base]
 kind = "Class"

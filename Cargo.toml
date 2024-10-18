@@ -5,3 +5,5 @@ edition = "2021"
 
 [dependencies]
 serde_json = "1.0.129"
+toml = "0.8.19"
+clap = { version = "4.5.20", features = ["derive"] }
