@@ -1,0 +1,20 @@
+kind = "DojoModel"
+class_hash = "0x6422dbf9da69f239703a0fb280df268610d7a0ffa80bf75bf5eb04b78feb81e"
+original_class_hash = "0x6422dbf9da69f239703a0fb280df268610d7a0ffa80bf75bf5eb04b78feb81e"
+abi = "manifests/release/abis/base/models/bootcamp_models_tile_tile.json"
+name = "bootcamp::models::tile::tile"
+
+[[members]]
+name = "x"
+type = "u16"
+key = true
+
+[[members]]
+name = "y"
+type = "u16"
+key = true
+
+[[members]]
+name = "color"
+type = "felt252"
+key = false

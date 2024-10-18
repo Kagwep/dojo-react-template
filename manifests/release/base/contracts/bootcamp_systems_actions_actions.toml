@@ -1,0 +1,10 @@
+kind = "DojoContract"
+class_hash = "0x1377f3d6eeb6fff2e0cd731905aa3aab7b8ffb615a6363c5a4d0c1727cac7d7"
+original_class_hash = "0x1377f3d6eeb6fff2e0cd731905aa3aab7b8ffb615a6363c5a4d0c1727cac7d7"
+base_class_hash = "0x0"
+abi = "manifests/release/abis/base/contracts/bootcamp_systems_actions_actions.json"
+reads = []
+writes = []
+computed = []
+init_calldata = []
+name = "bootcamp::systems::actions::actions"
